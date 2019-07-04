@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/791a8035e591b1d295782b86e1ee054e/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/791a8035e591b1d295782b86e1ee054e/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/791a8035e591b1d295782b86e1ee054e/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/791a8035e591b1d295782b86e1ee054e/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

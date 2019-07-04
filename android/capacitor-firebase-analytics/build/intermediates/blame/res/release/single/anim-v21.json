@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

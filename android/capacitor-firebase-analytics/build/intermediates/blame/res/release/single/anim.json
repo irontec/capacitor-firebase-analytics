@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/20c58a632f2a31499c1fc6c7d7e9e766/res/anim/abc_popup_enter.xml"
+    }
+]

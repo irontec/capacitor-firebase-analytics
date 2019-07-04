@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

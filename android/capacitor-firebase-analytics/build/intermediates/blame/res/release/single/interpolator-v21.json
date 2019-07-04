@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/axier/Documents/irongit/krt-multiverse/node_modules/capacitor-firebase-analytics/android/capacitor-firebase-analytics/build/intermediates/res/merged/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/axier/.gradle/caches/transforms-2/files-2.1/04ac08ef66bbc40833e13fb0da030b31/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]
